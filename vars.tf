@@ -1,7 +1,7 @@
 variable "default_tags" {
   type = map(string)
   default = {
-    "env" = "Jesse"
+    "env" = "jesse"
   }
   description = "jesse variables description"
 }
